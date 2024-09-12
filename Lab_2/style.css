@@ -1,0 +1,21 @@
+
+.Table-1 {
+    border-collapse: collapse;
+    margin: 2.5vh 0;
+    font-size: 1em;
+    width: 32vw;
+    min-height: 12vh;
+}
+
+.Table-1 th, td {
+    border: 0.1em solid black;
+    text-align: center;
+    padding: 1.5vh 1.5vw;
+}
+
+.BgColor-1{
+    background-color: bisque;
+}
+.BgColor-2{
+    background-color: #fdd197;
+}
