@@ -20,8 +20,17 @@
 .BgColor-1{
     background-color: bisque;
 }
+
+.BgColor-1:hover{
+    background-color: #ffa948;
+}
+
 .BgColor-2{
     background-color: #fdd197;
+}
+
+.BgColor-2:hover{
+    background-color: #ffbc23;
 }
 
 .Task-2 {
