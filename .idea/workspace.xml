@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aee06c3c-a5fd-4ef4-866c-a6be793168b2" name="Changes" comment="Attaching the Lab_2: the first task has been completed">
+    <list default="true" id="aee06c3c-a5fd-4ef4-866c-a6be793168b2" name="Changes" comment="Code refactor + implementation of task #2 (using position)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lab_2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_2/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lab_2/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_2/style.css" afterDir="false" />
@@ -67,7 +67,9 @@
       <workItem from="1725954076861" duration="648000" />
       <workItem from="1726049931421" duration="2909000" />
       <workItem from="1726144397179" duration="6455000" />
-      <workItem from="1726220656529" duration="6766000" />
+      <workItem from="1726220656529" duration="8934000" />
+      <workItem from="1726383671513" duration="440000" />
+      <workItem from="1726641828740" duration="11270000" />
     </task>
     <task id="LOCAL-00001" summary="Init commit and add First Lab">
       <created>1725704051789</created>
@@ -90,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1726152563180</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Code refactor + implementation of task #2 (using position)">
+      <created>1726235586115</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726235586115</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +120,7 @@
     <MESSAGE value="Init commit and add First Lab" />
     <MESSAGE value="Refactor index.html" />
     <MESSAGE value="Attaching the Lab_2: the first task has been completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Attaching the Lab_2: the first task has been completed" />
+    <MESSAGE value="Code refactor + implementation of task #2 (using position)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code refactor + implementation of task #2 (using position)" />
   </component>
 </project>
