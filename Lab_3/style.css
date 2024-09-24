@@ -1,0 +1,49 @@
+
+.upContainer{
+    margin: 2vh 10vw 10vh 15vw;
+    border: 0.1em solid #000521;
+    width:  70%;
+    background-color: #fff3e7;
+}
+
+.upBox{
+    overflow: auto;
+}
+
+.leftPh{
+    float: left;
+}
+
+.headText{
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.genText{
+    width: 65%;
+    margin: 0 3vw 0 21vw;
+    font-size: 1.5rem;
+    text-align: justify;
+}
+
+.downBox{
+    overflow: auto;
+}
+
+.image-1, .image-2 {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.rightPh {
+    float: right;
+}
+
+.endText{
+    width: 75%;
+    margin: 6vh 15vw 0 2vw;
+    font-size: 1.3rem;
+    text-align: justify;
+}
+
