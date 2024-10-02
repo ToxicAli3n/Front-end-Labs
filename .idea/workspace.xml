@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aee06c3c-a5fd-4ef4-866c-a6be793168b2" name="Changes" comment="Attaching the Lab_3: the first task has been completed">
-      <change afterPath="$PROJECT_DIR$/Lab_3/Flex/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_3/Float/style.css" afterDir="false" />
+    <list default="true" id="aee06c3c-a5fd-4ef4-866c-a6be793168b2" name="Changes" comment="Attaching the Lab_3: the second task has been completed">
       <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_3/Float/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_3/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_3/Flex/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +80,7 @@
       <workItem from="1727166975000" duration="6542000" />
       <workItem from="1727247767009" duration="2563000" />
       <workItem from="1727852492607" duration="2273000" />
-      <workItem from="1727862165394" duration="2055000" />
+      <workItem from="1727862165394" duration="2444000" />
     </task>
     <task id="LOCAL-00001" summary="Init commit and add First Lab">
       <created>1725704051789</created>
@@ -137,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1727176212287</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Attaching the Lab_3: the second task has been completed">
+      <created>1727886321232</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1727886321232</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,6 +163,7 @@
     <MESSAGE value="Code refactor + implementation of task #2 (using transform)" />
     <MESSAGE value="Finalization of Task #1" />
     <MESSAGE value="Attaching the Lab_3: the first task has been completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Attaching the Lab_3: the first task has been completed" />
+    <MESSAGE value="Attaching the Lab_3: the second task has been completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Attaching the Lab_3: the second task has been completed" />
   </component>
 </project>
