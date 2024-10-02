@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aee06c3c-a5fd-4ef4-866c-a6be793168b2" name="Changes" comment="Finalization of Task #1">
-      <change afterPath="$PROJECT_DIR$/Lab_3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_3/style.css" afterDir="false" />
+    <list default="true" id="aee06c3c-a5fd-4ef4-866c-a6be793168b2" name="Changes" comment="Attaching the Lab_3: the first task has been completed">
+      <change afterPath="$PROJECT_DIR$/Lab_3/Flex/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_3/Float/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_3/Float/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_3/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_3/Flex/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -40,6 +44,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Programing/Language/Js/Front_Labs/Lab_3/Flex&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -50,6 +55,14 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Programing\Language\Js\Front_Labs\Lab_3\Flex" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Programing\Language\Js\Front_Labs\Lab_3\Float" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -70,7 +83,10 @@
       <workItem from="1726220656529" duration="8934000" />
       <workItem from="1726383671513" duration="440000" />
       <workItem from="1726641828740" duration="22077000" />
-      <workItem from="1727166975000" duration="6318000" />
+      <workItem from="1727166975000" duration="6542000" />
+      <workItem from="1727247767009" duration="2563000" />
+      <workItem from="1727852492607" duration="2273000" />
+      <workItem from="1727862165394" duration="2055000" />
     </task>
     <task id="LOCAL-00001" summary="Init commit and add First Lab">
       <created>1725704051789</created>
@@ -114,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1726659688898</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Attaching the Lab_3: the first task has been completed">
+      <created>1727176212287</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1727176212287</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,6 +161,7 @@
     <MESSAGE value="Code refactor + implementation of task #2 (using position)" />
     <MESSAGE value="Code refactor + implementation of task #2 (using transform)" />
     <MESSAGE value="Finalization of Task #1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finalization of Task #1" />
+    <MESSAGE value="Attaching the Lab_3: the first task has been completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Attaching the Lab_3: the first task has been completed" />
   </component>
 </project>
