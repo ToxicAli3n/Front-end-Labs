@@ -1,0 +1,23 @@
+
+body{
+    margin: 1em;
+    padding: 0;
+}
+
+ul{
+   list-style-type: square;
+}
+
+#fullName{
+    color: #000000;
+    background-color: #ffffff;
+}
+
+button{
+    margin-top: 1vh;
+    color: #ffffff;
+    background-color: #000521;
+    border-radius: 1em;
+    height: 5vh;
+    width: 10vh;
+}
