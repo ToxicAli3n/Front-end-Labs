@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aee06c3c-a5fd-4ef4-866c-a6be793168b2" name="Changes" comment="Creation of a navigation page for laboratory work">
-      <change afterPath="$PROJECT_DIR$/Lab_4/Image/London.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_4/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_4/style.css" afterDir="false" />
+    <list default="true" id="aee06c3c-a5fd-4ef4-866c-a6be793168b2" name="Changes" comment="Start of work on the 4th laboratory">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,49 +27,49 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ToxicAli3n"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ToxicAli3n&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ToxicAli3n/Front-end-Labs.git",
-    "accountId": "3a21a949-8baa-49f0-8a3c-433653e6a4a0"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ToxicAli3n/Front-end-Labs.git&quot;,
+    &quot;accountId&quot;: &quot;3a21a949-8baa-49f0-8a3c-433653e6a4a0&quot;
   }
-}]]></component>
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2leYkGvbx33JEcj8y1cY45crDDo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/Programing/Language/Js/Front_Labs/Lab_4",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "configurable.group.appearance",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Programing/Language/Js/Front_Labs/Lab_4&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Programing\Language\Js\Front_Labs\Lab_4" />
@@ -114,7 +113,9 @@
       <workItem from="1727862165394" duration="3896000" />
       <workItem from="1727888904882" duration="2314000" />
       <workItem from="1727891700629" duration="14000" />
-      <workItem from="1728043630735" duration="6605000" />
+      <workItem from="1728043630735" duration="7872000" />
+      <workItem from="1728466554869" duration="4000" />
+      <workItem from="1730101362003" duration="10000000" />
     </task>
     <task id="LOCAL-00001" summary="Init commit and add First Lab">
       <created>1725704051789</created>
@@ -179,7 +180,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727886715289</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Start of work on the 4th laboratory">
+      <option name="closed" value="true" />
+      <created>1728051513351</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1728051513351</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,6 +215,7 @@
     <MESSAGE value="Attaching the Lab_3: the first task has been completed" />
     <MESSAGE value="Attaching the Lab_3: the second task has been completed" />
     <MESSAGE value="Creation of a navigation page for laboratory work" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creation of a navigation page for laboratory work" />
+    <MESSAGE value="Start of work on the 4th laboratory" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start of work on the 4th laboratory" />
   </component>
 </project>

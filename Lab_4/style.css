@@ -1,4 +1,7 @@
 
+*{
+    box-sizing: border-box;
+}
 body{
     margin: 1em;
     padding: 0;
@@ -13,11 +16,22 @@ ul{
     background-color: #ffffff;
 }
 
-button{
+.btn{
     margin-top: 1vh;
     color: #ffffff;
     background-color: #000521;
     border-radius: 1em;
     height: 5vh;
     width: 10vh;
+}
+
+.btn:disabled {
+    background-color: #ffffff;
+    color: #000521;
+    cursor: not-allowed;
+}
+
+.btn:hover{
+    color: #000521;
+    background-color: #ffffff;
 }
