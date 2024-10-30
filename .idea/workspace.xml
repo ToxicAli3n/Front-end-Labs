@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aee06c3c-a5fd-4ef4-866c-a6be793168b2" name="Changes" comment="Finishing the first task and completing the second ( Lab#4 )">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="aee06c3c-a5fd-4ef4-866c-a6be793168b2" name="Changes" comment="Added button for git-pages Lab#4">
+      <change afterPath="$PROJECT_DIR$/Lab_5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_5/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_5/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +76,7 @@
       <recent name="D:\Programing\Language\Js\Front_Labs\Lab_3\Flex" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Programing\Language\Js\Front_Labs" />
       <recent name="D:\Programing\Language\Js\Front_Labs\Lab_4" />
       <recent name="D:\Programing\Language\Js\Front_Labs\Lab_3\Float" />
     </key>
@@ -112,7 +116,9 @@
       <workItem from="1727891700629" duration="14000" />
       <workItem from="1728043630735" duration="7872000" />
       <workItem from="1728466554869" duration="4000" />
-      <workItem from="1730101362003" duration="10334000" />
+      <workItem from="1730101362003" duration="10476000" />
+      <workItem from="1730288482857" duration="32000" />
+      <workItem from="1730288523859" duration="5162000" />
     </task>
     <task id="LOCAL-00001" summary="Init commit and add First Lab">
       <created>1725704051789</created>
@@ -193,7 +199,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730112651286</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Added button for git-pages Lab#4">
+      <option name="closed" value="true" />
+      <created>1730112855607</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1730112855607</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,6 +236,7 @@
     <MESSAGE value="Creation of a navigation page for laboratory work" />
     <MESSAGE value="Start of work on the 4th laboratory" />
     <MESSAGE value="Finishing the first task and completing the second ( Lab#4 )" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finishing the first task and completing the second ( Lab#4 )" />
+    <MESSAGE value="Added button for git-pages Lab#4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added button for git-pages Lab#4" />
   </component>
 </project>

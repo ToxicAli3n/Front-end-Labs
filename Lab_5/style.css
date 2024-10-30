@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Oswald', sans-serif;
+}
+
+body{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background: #f3eef8;
+}
+
+.content-1{
+    position: relative;
+    max-width: 950px;
+    width: 100%;
+    background: #d9bbf8;
+    padding: 10px 40px 25px 40px;
+    border-radius: 10px;
+    box-shadow: 0 2px #555555;
+}
+
+.content-1 header{
+    font-size: 1.7rem;
+    color: #1e1e1e;
+    font-weight: 350;
+    margin-top: 10px;
+}
+
+.content-1 .form{
+    margin-top: 20px;
+}
+
+.form .input-box{
+    width: 100%;
+    margin-top: 30px;
+}
+
+.input-box{
+    color: #1e1e1e;
+}
+
+.form .input-box input{
+    position: relative;
+    height: 40px;
+    width: 100%;
+    font-size: 0.8rem;
+    color: #505050;
+    outline: #6a6a6a solid 1px;
+    border: 1px solid #d8d8d8;
+    border-radius: 4px;
+    padding: 0 15px;
+}
+
+.input-box input:focus{
+    border: 1px solid #151515;
+}
+
+.btn{
+    margin-top: 20px;
+    height: 45px;
+    width: 100%;
+    background-color: #f3eef8;
+    border: 1px solid #857e81;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background-color: #FCDF78;
+}
