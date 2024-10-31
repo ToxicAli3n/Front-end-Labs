@@ -16,25 +16,28 @@
         <header> Форма для заповнення </header>
         <form action="#" class="form">
             <div class="input-box">
-                <input type="text" placeholder="ПІБ" />
+                <input type="text" id="fullname" name="fullname" placeholder="ПІБ"/>
+                <small class="error"></small>
+
+                <input type="text" id="group" name="group" placeholder="Група"/>
+                <small class="error"></small>
             </div>
             <div class="input-box">
-                <input type="text" placeholder="Група" />
+                <input type="text" id="phone" name="phone" placeholder="Телефон" />
+                <small class="error"></small>
             </div>
             <div class="input-box">
-                <input type="text" placeholder="Телефон" />
+                <input type="text" id="address" name="address" placeholder="Адреса" />
+                <small class="error"></small>
             </div>
             <div class="input-box">
-                <input type="text" placeholder="Адреса" />
+                <input type="text" id="email" name="email" placeholder="Пошта" />
+                <small class="error"></small>
             </div>
-            <div class="input-box">
-                <input type="text" placeholder="Пошта" />
-            </div>
+            <button type="submit" class="btn"> Підтвердити </button>
         </form>
-        <button class="btn"> Підтвердити </button>
     </section>
 </div>
-
 
 <script src="script.js"></script>
 </body>

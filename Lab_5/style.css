@@ -18,7 +18,7 @@ body{
 
 .content-1{
     position: relative;
-    max-width: 950px;
+    max-width: 1200px;
     width: 100%;
     background: #d9bbf8;
     padding: 10px 40px 25px 40px;
@@ -60,6 +60,20 @@ body{
 
 .input-box input:focus{
     border: 1px solid #151515;
+}
+
+.input-box.success input{
+    border-color: #10fd68;
+}
+
+.input-box.error input{
+    border-color: #ff0000;
+}
+
+.input-box .error {
+    color: #ff0000;
+    font-size: 0.75rem;
+    margin-top: 5px;
 }
 
 .btn{
