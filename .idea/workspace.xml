@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aee06c3c-a5fd-4ef4-866c-a6be793168b2" name="Changes" comment="Implementation of the task#1 lab-5">
+    <list default="true" id="aee06c3c-a5fd-4ef4-866c-a6be793168b2" name="Changes" comment="Implementation of the task#2 lab-5 + add button for lab-5">
+      <change afterPath="$PROJECT_DIR$/Lab_6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_6/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_6/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_5/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_5/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_5/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_5/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_5/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -121,7 +121,8 @@
       <workItem from="1730288482857" duration="32000" />
       <workItem from="1730288523859" duration="5323000" />
       <workItem from="1730368551865" duration="9241000" />
-      <workItem from="1730810262121" duration="1459000" />
+      <workItem from="1730810262121" duration="4363000" />
+      <workItem from="1730822890887" duration="1381000" />
     </task>
     <task id="LOCAL-00001" summary="Init commit and add First Lab">
       <created>1725704051789</created>
@@ -226,7 +227,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730382434190</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Implementation of the task#2 lab-5 + add button for lab-5">
+      <option name="closed" value="true" />
+      <created>1730812377012</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1730812377012</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,6 +267,7 @@
     <MESSAGE value="Added button for git-pages Lab#4" />
     <MESSAGE value="Start of execution of Lab#5 of the first task" />
     <MESSAGE value="Implementation of the task#1 lab-5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implementation of the task#1 lab-5" />
+    <MESSAGE value="Implementation of the task#2 lab-5 + add button for lab-5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementation of the task#2 lab-5 + add button for lab-5" />
   </component>
 </project>
