@@ -5,6 +5,10 @@ const phone = document.getElementById('phone');
 const address = document.getElementById('address');
 const email = document.getElementById('email');
 
+const table = document.getElementById('table');
+const colorPicker = document.getElementById('colorPicker');
+const variant = 10;
+
 form.addEventListener('submit', (e) => {
     e.preventDefault();
     validateInputs();
@@ -132,3 +136,51 @@ const validateInputs = () => {
         }
     }
 };
+
+let number = 1;
+for (let i = 0; i < 6; i++) {
+    const row = document.createElement('tr');
+    for (let j = 0; j < 6; j++) {
+        const cell = document.createElement('td');
+        cell.textContent = number;
+        cell.dataset.number = number;
+
+        cell.addEventListener('mouseover', () => {
+            if (Number(cell.dataset.number) === variant) {
+                cell.style.backgroundColor = getRandomColor();
+            }
+        });
+
+        cell.addEventListener('click', () => {
+            if (Number(cell.dataset.number) === variant) {
+                cell.style.backgroundColor = colorPicker.value;
+            }
+        });
+
+        cell.addEventListener('dblclick', () => {
+            if (Number(cell.dataset.number) === variant) {
+                changeRowColors(i, j);
+            }
+        });
+
+        row.appendChild(cell);
+        number++;
+    }
+    table.appendChild(row);
+}
+
+function getRandomColor() {
+    const letters = '0123456789ABCDEF';
+    let color = '#';
+    for (let i = 0; i < 6; i++) {
+        color += letters[Math.floor(Math.random() * 16)];
+    }
+    return color;
+}
+
+function changeRowColors(rowIndex, startIndex) {
+    const row = table.rows[rowIndex];
+    for (let i = startIndex; i < row.cells.length; i += 2) {
+        row.cells[i].style.backgroundColor = colorPicker.value;
+    }
+}

@@ -1,13 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
 
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: 'Oswald', sans-serif;
 }
 
-body{
+body {
     min-height: 100vh;
     display: flex;
     align-items: center;
@@ -16,57 +16,67 @@ body{
     background: #f3eef8;
 }
 
-.content-1{
-    position: relative;
+.container {
+    display: flex;
     max-width: 1200px;
     width: 100%;
+}
+
+.content-1, .content-2 {
     background: #d9bbf8;
-    padding: 10px 40px 25px 40px;
+    padding: 20px;
     border-radius: 10px;
     box-shadow: 0 2px #555555;
+    flex: 1;
+    margin: 10px;
 }
 
-.content-1 header{
+.content-1 {
+    max-width: 600px;
+}
+
+.content-2 {
+    max-width: 400px;
+}
+
+header, h3 {
     font-size: 1.7rem;
     color: #1e1e1e;
-    font-weight: 350;
-    margin-top: 10px;
+    text-align: center;
+    font-weight: 400;
+    margin-bottom: 20px;
 }
 
-.content-1 .form{
+.form {
     margin-top: 20px;
 }
 
-.form .input-box{
+.input-box {
     width: 100%;
     margin-top: 30px;
-}
-
-.input-box{
     color: #1e1e1e;
 }
 
-.form .input-box input{
-    position: relative;
+.form .input-box input {
     height: 40px;
     width: 100%;
     font-size: 0.8rem;
     color: #505050;
-    outline: #6a6a6a solid 1px;
+    outline: none;
     border: 1px solid #d8d8d8;
     border-radius: 4px;
     padding: 0 15px;
 }
 
-.input-box input:focus{
+.input-box input:focus {
     border: 1px solid #151515;
 }
 
-.input-box.success input{
+.input-box.success input {
     border-color: #10fd68;
 }
 
-.input-box.error input{
+.input-box.error input {
     border-color: #ff0000;
 }
 
@@ -76,7 +86,7 @@ body{
     margin-top: 5px;
 }
 
-.btn{
+.btn {
     margin-top: 20px;
     height: 45px;
     width: 100%;
@@ -86,6 +96,25 @@ body{
     cursor: pointer;
 }
 
-.btn:hover{
+.btn:hover {
     background-color: #FCDF78;
+}
+
+#colorPicker {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td {
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    border: 1px solid #ddd;
+    cursor: pointer;
+    user-select: none;
 }
