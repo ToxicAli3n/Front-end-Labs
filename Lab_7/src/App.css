@@ -1,0 +1,64 @@
+
+*{
+  box-sizing: border-box;
+}
+body{
+  margin: 1em;
+  padding: 0;
+}
+
+ul{
+  list-style-type: square;
+}
+
+#fullName{
+  color: #000000;
+  background-color: #ffffff;
+}
+
+.buttSection {
+  display: flex;
+  gap: 1vh;
+}
+
+.btn{
+  margin-top: 1vh;
+  color: #ffffff;
+  background-color: #000521;
+  border-radius: 1em;
+  height: 5vh;
+  width: 10vh;
+}
+
+.btn:disabled {
+  background-color: #ffffff;
+  color: #000521;
+  cursor: not-allowed;
+}
+
+.btn:hover{
+  color: #000521;
+  background-color: #ffffff;
+}
+
+.goods-card {
+  border: 1px solid #ddd;
+  padding: 1em;
+  margin: 1em;
+  text-align: center;
+  border-radius: 8px;
+}
+
+.goods-card img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.goods-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+

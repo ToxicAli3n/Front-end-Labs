@@ -4,10 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aee06c3c-a5fd-4ef4-866c-a6be793168b2" name="Changes" comment="Implementation of the task#2 lab-5 + add button for lab-5">
-      <change afterPath="$PROJECT_DIR$/Lab_6/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_6/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_6/style.css" afterDir="false" />
+    <list default="true" id="aee06c3c-a5fd-4ef4-866c-a6be793168b2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Lab_7/public/Image/London.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_7/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_7/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_7/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_7/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_7/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_7/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_7/src/components/Books.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_7/src/components/Controls.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_7/src/components/GoodsCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_7/src/components/GoodsGallery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_7/src/components/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_7/src/components/Hobbies.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_7/src/components/London.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_7/src/components/Movies.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -56,11 +68,13 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Programing/Language/Js/Front_Labs/Lab_4&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Programing/Language/Js/Front_Labs/lab_8/public/Image&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -73,6 +87,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Programing\Language\Js\Front_Labs\lab_8\public\Image" />
       <recent name="D:\Programing\Language\Js\Front_Labs\Lab_4" />
       <recent name="D:\Programing\Language\Js\Front_Labs\Lab_3\Flex" />
     </key>
@@ -82,10 +97,20 @@
       <recent name="D:\Programing\Language\Js\Front_Labs\Lab_3\Float" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Front_Labs/Lab_4/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-WS-242.23339.15" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-WS-243.22562.112" />
       </set>
     </attachedChunks>
   </component>
@@ -122,7 +147,19 @@
       <workItem from="1730288523859" duration="5323000" />
       <workItem from="1730368551865" duration="9241000" />
       <workItem from="1730810262121" duration="4363000" />
-      <workItem from="1730822890887" duration="1381000" />
+      <workItem from="1730822890887" duration="1828000" />
+      <workItem from="1730883077032" duration="16000" />
+      <workItem from="1730904330342" duration="5317000" />
+      <workItem from="1730967835280" duration="25000" />
+      <workItem from="1730995864154" duration="9000" />
+      <workItem from="1733947697139" duration="246000" />
+      <workItem from="1733995389586" duration="15000" />
+      <workItem from="1734596902451" duration="1164000" />
+      <workItem from="1734598240082" duration="67000" />
+      <workItem from="1734598385053" duration="539000" />
+      <workItem from="1734599081055" duration="42000" />
+      <workItem from="1734600351782" duration="5130000" />
+      <workItem from="1734605638378" duration="329000" />
     </task>
     <task id="LOCAL-00001" summary="Init commit and add First Lab">
       <created>1725704051789</created>
@@ -235,7 +272,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730812377012</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Completed Lab-6 + page redesign for git pages">
+      <option name="closed" value="true" />
+      <created>1730824479905</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1730824479905</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,6 +313,7 @@
     <MESSAGE value="Start of execution of Lab#5 of the first task" />
     <MESSAGE value="Implementation of the task#1 lab-5" />
     <MESSAGE value="Implementation of the task#2 lab-5 + add button for lab-5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implementation of the task#2 lab-5 + add button for lab-5" />
+    <MESSAGE value="Completed Lab-6 + page redesign for git pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed Lab-6 + page redesign for git pages" />
   </component>
 </project>
